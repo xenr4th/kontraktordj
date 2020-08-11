@@ -285,7 +285,7 @@
 
                             <li>
                                 <a href="?page=lstok">
-                                    <span>Laporan Stok</span>
+                                    <span>Laporan Purchase Order</span>
                                 </a>
                             </li>
                 </ul>

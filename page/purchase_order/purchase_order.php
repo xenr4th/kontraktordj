@@ -103,7 +103,7 @@ case '<?= $data['kode_bahan']?>': $('#addthis').append(
         <div class="modal-dialog modal-dialog-scrollable" role="document">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h2 class="modal-title" id="exampleModalScrollableTitle">Data Customer</h2>
+                    <h2 class="modal-title" id="exampleModalScrollableTitle">Data Bahan</h2>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                     </button>
